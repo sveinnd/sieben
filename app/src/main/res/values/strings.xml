@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IntentPart7</string>
+
+        <string-array name="spiner_jurusan">
+            <item>Iron Blood</item>
+            <item>Sakura Empire</item>
+            <item>Eagle Union</item>
+            <item>Royal Navy</item>
+            <item>Sardegna Empire</item>
+
+        </string-array>
+</resources>
